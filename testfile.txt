@@ -7,3 +7,5 @@ Test at 2/3 at 11:18pm.
 
 Testing the squash functionality. Will make multiple commits on the f1 branch.
 Then we will squash the commits on merge.
+
+Change 1: this is the next change.
