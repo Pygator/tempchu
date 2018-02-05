@@ -13,5 +13,5 @@ Change 2: this is the next change.
 
 Testing with Intellij git features.
 
-Making changes to the intellijtest branch.
+Making changes to the intellijtest branch.  Change the same line is new commit.
 
