@@ -10,3 +10,5 @@ Then we will squash the commits on merge.
 
 Change 1: this is the next change.
 Change 2: this is the next change.
+
+Testing with Intellij git features.
