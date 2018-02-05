@@ -12,3 +12,6 @@ Change 1: this is the next change.
 Change 2: this is the next change.
 
 Testing with Intellij git features.
+
+Making changes to the intellijtest branch.
+
